@@ -1,6 +1,6 @@
 ## Lambda event sources vpc setup example
 
-This repository provides the example cloudformation templates for setting up internet connection between event sources within vpc and public internet.
+This repository provides the example cloudformation templates for setting up internet connection between event sources within AWS VPC and public internet.
 
 
 ## Security
