@@ -1,11 +1,7 @@
-## My Project
+## Lambda event sources vpc setup example
 
-TODO: Fill this README out!
+This repository provides the example cloudformation templates for setting up internet connection between event sources within vpc and public internet.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
